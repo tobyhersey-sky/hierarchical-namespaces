@@ -1,4 +1,4 @@
-module sigs.k8s.io/hierarchical-namespaces
+module github.com/tobyhersey-sky/hierarchical-namespaces
 
 go 1.21
 
